@@ -35,7 +35,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kuralabs.org"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-o..."></a>
+<a href="https://www.kuralabs.org"><img alt="Website" src="https://img.shields.io/badge/Website-www.kuralabs.org-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nalanidaniels"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nalani%20Daniels--orange?style=flat-square&logo=linkedin"></a>
 <a href="https://nalanidaniels23@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nalanidaniels23@gmail.com-orange?style=flat-square&logo=gmail"></a>
 </p>
