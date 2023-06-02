@@ -11,24 +11,24 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Python](img.shields.io/badge/-Python-333333?style=flat&...)
+![Python](img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
-![HTML5](img.shields.io/badge/-HTML5-333333?style=flat&l...)
-![CSS](img.shields.io/badge/-CSS-333333?style=flat&log...)
-![JavaScript](img.shields.io/badge/-JavaScript-333333?style=f...)
-![Node.js](img.shields.io/badge/-Node.js-333333?style=flat...)
-![React](img.shields.io/badge/-React-333333?style=flat&l...)
+![HTML5]img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](img.shields.io/badge/-React-333333?style=flat&logo=react.)
 - 🛢 &nbsp;
-![MySQL](img.shields.io/badge/-MySQL-333333?style=flat&l...)
-![MongoDB](img.shields.io/badge/-MongoDB-333333?style=flat...)
+![MySQL](img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-![Git](img.shields.io/badge/-Git-333333?style=flat&log...)
-![GitHub](img.shields.io/badge/-GitHub-333333?style=flat&...)
-![Markdown](img.shields.io/badge/-Markdown-333333?style=fla...)
+![Git](img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-33...)
+![Visual Studio Code](img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-![diagram.net](img.shields.io/badge/-Diagram.net-333333?style=...)
+![diagram.net](img.shields.io/badge/-Diagram.net-333333?style=flat&logo=diagrams.net)
 
 <br/>
 
