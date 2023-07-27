@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 I like to listen to music, journal, fish, explore NYC, and make pottery. 
+- 🤔 I like listening to music, journaling, fishing, watching The Office. 
 - 🎓 I graduated from Northwestern University in 2017 with a degree in Economics and completed my masters in Marketing in 2018.
 - 💼 I plan to become a Site Reliability Engineer
 - 🌱 I am currently working on completing the Kura Labs program and managing operations at a restaurant. 
